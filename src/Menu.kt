@@ -1,5 +1,5 @@
 fun main(args: Array<String>){
-        print("Masukkan Nilai Akademi: ")
+        print("Masukkan Nilai Akademi Anda: ")
         val nilai: Int = readLine()?.toInt()!!
         var grade: String = ""
 
